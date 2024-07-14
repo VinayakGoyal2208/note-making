@@ -1,4 +1,4 @@
-# note-making
+# note-master
 # # Welcome to NoteMaster!
 
 Capture, Organize, and Master Your Notes
